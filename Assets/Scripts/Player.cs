@@ -25,6 +25,8 @@ public class Player : MonoBehaviour {
 	Vector3 velocity;
 	float velocityXSmoothing;
 
+	public static int coins;
+
 	Controller2D controller;
 
 	Vector2 directionalInput;
