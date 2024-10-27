@@ -11,6 +11,7 @@ public class Coin : MonoBehaviour
         {
             Player.coins++;
             Debug.Log(Player.coins);
+            GameObject.Find("CoinSoundHandler").GetComponent<AudioSource>().Play();
             Destroy(gameObject);
         }
     }
