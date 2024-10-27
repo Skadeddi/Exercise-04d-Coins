@@ -1,6 +1,13 @@
-# Exercise-04c-Enemies
+# Plat For Mur
+10/26/24
+
+Description
 
 ## Implementation
+Multiple expansive levels
+Movable 2D character with jumping, wall sliding, and wall jumping
+In-Game Menu
+Custom sound effects
 
 ## References
 
@@ -11,7 +18,9 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
+Mortir typeface by burntilldead
+https://www.fontspace.com/burntilldead
+
 ## Future Development
 
 ## Created by
-Ian Weaver (skadeddi)
